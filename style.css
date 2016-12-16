@@ -16,3 +16,8 @@ p{
 .strong{
     font-weight: bold;
 }
+
+div{
+    text-align: center;
+    margin: 10px 500px 10px;
+}
