@@ -1,29 +1,39 @@
-h1{
+body {
+    background-color: #82CAFA;
+}
+
+h1 {
     text-align: center;
     font-size: 50px;
     font-family: 'Orbitron', sans-serif;
     color: red;
 }
 
-h2{
+h2 {
     font-family: 'Molle', cursive;
-    color: #82CAFA;
+    color: white;
     font-size: 30px;
 }
-p{
+
+#background {
     font-size: 18px;
+    padding-left: 10px;
 }
-.strong{
+
+.strong {
     font-weight: bold;
 }
 
-img{
+img {
     height: 200px;
     width: 200px;
-    float:left;
+    float: left;
+}
 
-
-div{
+div {
     text-align: center;
-    margin: 10px 500px 10px;
+    margin: 10px 20px ;
+}
+#ready{
+    font-size: 30px;
 }
