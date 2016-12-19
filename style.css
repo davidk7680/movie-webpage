@@ -22,7 +22,7 @@ h3 {
 }
 
 #background {
-    font-size: 18px;
+    font-size: 20px;
     padding-left: 10px;
     font-family: 'Audiowide', cursive;
 }
@@ -31,9 +31,9 @@ h3 {
     font-weight: bold;
 }
 
-img {
-    height: 200px;
-    width: 200px;
+#logo {
+    height: 250px;
+    width: 250px;
     float: left;
     position: relative;
 }
@@ -48,12 +48,15 @@ div {
 }
 
 .leaders {
+    height: 250px;
+    width: 250px;
     display: inline-block;
     margin: 30px;
     display: relative;
 }
 
 .captions {
-    display: inline;
-    padding: 10px 80px;
+    display: inline-block;
+    margin: 10px 70px;
+    position: relative;
 }
