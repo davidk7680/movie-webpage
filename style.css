@@ -12,12 +12,19 @@ h1 {
 h2 {
     font-family: 'Molle', cursive;
     color: white;
-    font-size: 30px;
+    margin-right: 10px;
+}
+
+h3 {
+    color: red;
+    font-size: 25px;
+    text-align: center;
 }
 
 #background {
     font-size: 18px;
     padding-left: 10px;
+    font-family: 'Audiowide', cursive;
 }
 
 .strong {
@@ -28,12 +35,25 @@ img {
     height: 200px;
     width: 200px;
     float: left;
+    position: relative;
 }
 
 div {
     text-align: center;
-    margin: 10px 20px ;
+    margin: 10px 20px;
 }
-#ready{
+
+#ready {
     font-size: 30px;
+}
+
+.leaders {
+    display: inline-block;
+    margin: 30px;
+    display: relative;
+}
+
+.captions {
+    display: inline;
+    padding: 10px 80px;
 }
