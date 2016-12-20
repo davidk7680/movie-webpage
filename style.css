@@ -39,8 +39,9 @@ h3 {
 }
 
 div {
+    display: inline;
     text-align: center;
-    margin: 10px 20px;
+    margin: 10px 5px;
 }
 
 #ready {
@@ -51,12 +52,17 @@ div {
     height: 250px;
     width: 250px;
     display: inline-block;
-    margin: 30px;
-    display: relative;
+    position: relative;
 }
 
 .captions {
-    display: inline-block;
-    margin: 10px 70px;
+    display: inline;
+    border: 5px;
     position: relative;
+    font-size: 19px;
+    font-family: Audiowide;
 }
+
+/*.top{*/
+/*    margin: 5px;*/
+/*}*/
