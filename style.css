@@ -19,16 +19,14 @@ h3 {
     color: red;
     font-size: 25px;
     text-align: center;
+    font-family: 'Orbitron', sans-serif;
 }
 
 #background {
     font-size: 20px;
-    padding-left: 10px;
+    margin-left: 20px;
     font-family: 'Audiowide', cursive;
-}
-
-.strong {
-    font-weight: bold;
+    display: inline;
 }
 
 #logo {
@@ -38,7 +36,11 @@ h3 {
     position: relative;
 }
 
-div {
+.strong {
+    font-weight: bold;
+}
+
+.cast {
     display: inline;
     text-align: center;
     margin: 10px 5px;
@@ -62,7 +64,3 @@ div {
     font-size: 19px;
     font-family: Audiowide;
 }
-
-/*.top{*/
-/*    margin: 5px;*/
-/*}*/
